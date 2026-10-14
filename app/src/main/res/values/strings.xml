@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ListCase</string>
+    <string name="tvTitleLog">To-Do List</string>
+    <string name="tvWelcome">Вход в систему</string>
+    <string name="etLogin">Введите свой логин</string>
+    <string name="etPassword">Введите свой пароль</string>
+    <string name="btnLogIn">Войти</string>
+    <string name="tvTitleDesc">Описание задачи:</string>
+    <string name="btnSave">Сохранить задачу</string>
+    <string name="btnMoveToList">Список дел</string>
+    <string name="btnBack">Новая задача</string>
+    <string name="tvTitleAdd">Новая задача</string>
+    <string name="etTaskTitle">Введите название</string>
+    <string name="etDescription">Введите описание</string>
+    <string name="spnImportTitle">Категория</string>
+    <string name="spnDayTitle">День недели</string>
+    <string name="tvListTitle">Список дел</string>
+    <string name="msgPleaseInputAllDataLog">Пожалуйста, введите все данные для авторизации.</string>
+    <string name="msgGoodExitLog">Вход выполнен успешно!</string>
+    <string name="msgBadExitLog">Неверный логин или пароль!</string>
+    <string name="msgPleaseInputAllDataAddTask">Пожалуйста, введите все данные о задаче.</string>
+    <string name="msgSaveTask">Задача успешно сохранена!</string>
+    <string name="tvEmptyList">Список задач пуст</string>
+
+    <string-array name="spnImportArray">
+        <item>Важно</item>
+        <item>Срочно</item>
+        <item>Сложно</item>
+        <item>Легко</item>
+        <item>Быстро</item>
+        <item>Долго</item>
+    </string-array>
+
+    <string-array name="spnDayArray">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+
+</resources>
